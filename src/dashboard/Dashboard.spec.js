@@ -7,6 +7,6 @@ import Controls from '../controls/Controls';
 import Dashboard from './Dashboard';
 
 test('The Display and Controls components are displaying', () => {
-    render(<Display />);
-    render(<Controls />);
-  });
+  render(<Display />);
+  render(<Controls />);
+});
